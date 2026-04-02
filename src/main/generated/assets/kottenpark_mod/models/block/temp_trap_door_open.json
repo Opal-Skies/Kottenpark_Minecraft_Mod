@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_open",
+  "textures": {
+    "texture": "kottenpark_mod:block/temp_trap_door"
+  }
+}

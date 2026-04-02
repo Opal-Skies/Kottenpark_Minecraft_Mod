@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "kottenpark_mod:temp_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "kottenpark_mod:pig_heart"
+  }
+}

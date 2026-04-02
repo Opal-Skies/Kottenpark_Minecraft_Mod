@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "texture_state=0": {
+      "model": "kottenpark_mod:block/temp_lamp_block"
+    },
+    "texture_state=1": {
+      "model": "kottenpark_mod:block/temp_lamp_block"
+    },
+    "texture_state=2": {
+      "model": "kottenpark_mod:block/temp_lamp_block"
+    },
+    "texture_state=3": {
+      "model": "kottenpark_mod:block/temp_lamp_block"
+    },
+    "texture_state=4": {
+      "model": "kottenpark_mod:block/temp_lamp_block"
+    },
+    "texture_state=5": {
+      "model": "kottenpark_mod:block/temp_lamp_block_special"
+    }
+  }
+}

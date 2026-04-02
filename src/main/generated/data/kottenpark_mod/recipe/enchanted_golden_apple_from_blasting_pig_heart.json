@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "temp",
+  "ingredient": "kottenpark_mod:pig_heart",
+  "result": {
+    "id": "minecraft:enchanted_golden_apple"
+  }
+}

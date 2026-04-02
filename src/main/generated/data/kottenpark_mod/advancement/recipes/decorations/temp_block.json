@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_pig_heart": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kottenpark_mod:pig_heart"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "kottenpark_mod:temp_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_pig_heart"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "kottenpark_mod:temp_block"
+    ]
+  }
+}

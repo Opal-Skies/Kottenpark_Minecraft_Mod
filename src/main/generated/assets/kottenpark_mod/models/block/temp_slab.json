@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "kottenpark_mod:block/temp_block",
+    "side": "kottenpark_mod:block/temp_block",
+    "top": "kottenpark_mod:block/temp_block"
+  }
+}

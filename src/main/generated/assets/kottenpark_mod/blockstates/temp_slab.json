@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kottenpark_mod:block/temp_slab"
+    },
+    "type=double": {
+      "model": "kottenpark_mod:block/temp_block"
+    },
+    "type=top": {
+      "model": "kottenpark_mod:block/temp_slab_top"
+    }
+  }
+}

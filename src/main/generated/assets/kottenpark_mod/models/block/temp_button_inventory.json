@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "kottenpark_mod:block/temp_block"
+  }
+}
