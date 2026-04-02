@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "kottenpark_mod:block/informatica_couch",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "kottenpark_mod:block/informatica_couch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kottenpark_mod:block/informatica_couch",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "kottenpark_mod:block/informatica_couch",
+      "y": 0
+    }
+  }
+}

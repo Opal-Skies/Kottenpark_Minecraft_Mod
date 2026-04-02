@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "kottenpark_mod:pig_heart",
+    "D": "minecraft:diamond"
+  },
+  "pattern": [
+    " D ",
+    "D#D",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kottenpark_mod:temp_block"
+  }
+}

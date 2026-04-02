@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "kottenpark_mod:block/table",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "kottenpark_mod:block/table"
+    },
+    "facing=south": {
+      "model": "kottenpark_mod:block/table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kottenpark_mod:block/table",
+      "y": 270
+    }
+  }
+}

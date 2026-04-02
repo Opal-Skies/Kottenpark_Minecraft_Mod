@@ -1,0 +1,13 @@
+{
+  "asset_id": "kottenpark_mod:shrimp",
+  "author": {
+    "color": "gray",
+    "translate": "painting.kottenpark_mod.shrimp.author"
+  },
+  "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.kottenpark_mod.shrimp.title"
+  },
+  "width": 2
+}

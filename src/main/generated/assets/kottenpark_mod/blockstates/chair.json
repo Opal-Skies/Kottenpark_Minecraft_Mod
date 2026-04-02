@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "kottenpark_mod:block/chair",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "kottenpark_mod:block/chair"
+    },
+    "facing=south": {
+      "model": "kottenpark_mod:block/chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kottenpark_mod:block/chair",
+      "y": 270
+    }
+  }
+}

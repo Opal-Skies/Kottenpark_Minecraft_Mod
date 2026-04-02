@@ -1,0 +1,32 @@
+{
+  "test_block_break": {
+    "subtitle": "sounds.kottenpark_mod.test_block_break",
+    "sounds": [
+      "kottenpark_mod:test_block_break"
+    ]
+  },
+  "test_block_step": {
+    "subtitle": "sounds.kottenpark_mod.test_block_step",
+    "sounds": [
+      "kottenpark_mod:test_block_step"
+    ]
+  },
+  "test_block_place": {
+    "subtitle": "sounds.kottenpark_mod.test_block_place",
+    "sounds": [
+      "kottenpark_mod:test_block_place"
+    ]
+  },
+  "test_block_hit": {
+    "subtitle": "sounds.kottenpark_mod.test_block_hit",
+    "sounds": [
+      "kottenpark_mod:test_block_hit"
+    ]
+  },
+  "test_block_fall": {
+    "subtitle": "sounds.kottenpark_mod.test_block_fall",
+    "sounds": [
+      "kottenpark_mod:test_block_fall"
+    ]
+  }
+}

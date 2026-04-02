@@ -1,0 +1,36 @@
+{
+  "item.kottenpark_mod.pig_heart": "Pigs Heart",
+
+  "block.kottenpark_mod.temp_block": "simple block",
+
+  "block.kottenpark_mod.temp_lamp_block": "custom lamp",
+
+  "block.kottenpark_mod.chair": "Chair",
+  "block.kottenpark_mod.table": "Table",
+  "block.kottenpark_mod.whiteboard": "Whiteboard",
+  "block.kottenpark_mod.informatica_couch": "Informatica Couch",
+
+  "block.kottenpark_mod.temp_stairs": "simple stairs",
+  "block.kottenpark_mod.temp_slab": "simple slab",
+
+  "block.kottenpark_mod.temp_button": "simple button",
+  "block.kottenpark_mod.temp_pressure_plate": "simple pressure plate",
+
+  "block.kottenpark_mod.temp_fence": "simple fence",
+  "block.kottenpark_mod.temp_fence_gate": "simple fence gate",
+  "block.kottenpark_mod.temp_wall": "simple wall",
+
+  "block.kottenpark_mod.temp_door": "simple (iron) door",
+  "block.kottenpark_mod.temp_trap_door": "simple (iron) trap door",
+
+  "block.kottenpark_mod.magic_block": "Magic Block",
+
+  "itemgroup.kottenpark_mod.kottenpark_item_group" : "Kottenpark Items",
+
+  "painting.kottenpark_mod.world.title": "World",
+  "painting.kottenpark_mod.world.author": "NanoAttack",
+  "painting.kottenpark_mod.shrimp.title": "Shrimp",
+  "painting.kottenpark_mod.shrimp.author": "NanoAttack",
+  "painting.kottenpark_mod.saw_them.title": "Saw Them",
+  "painting.kottenpark_mod.saw_them.author": "NanoAttack"
+}
