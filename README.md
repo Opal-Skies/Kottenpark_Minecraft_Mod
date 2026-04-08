@@ -8,3 +8,10 @@ play using minecraft fabric and the dependencies
 Dependencies:
 * Geckolib      https://modrinth.com/mod/geckolib
 * Fabric API    https://modrinth.com/mod/fabric-api
+
+
+resources used:
+https://youtube.com/playlist?list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L&si=wa_WU7aNDosuckRG
+https://wiki.geckolib.com
+https://docs.fabricmc.net/develop/
+
